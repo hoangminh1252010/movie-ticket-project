@@ -56,8 +56,7 @@ cd frontend
 npm install
 <br>
 npm run dev
-
-<h2>
-
 <br>
-<img src="/frontend/public/giaodien1.png" height="300" width="400"/>
+<br>
+
+<img src="/frontend/public/giaodien1.png" alt="Giao dien" width="600"/>
