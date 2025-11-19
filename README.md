@@ -59,4 +59,18 @@ npm run dev
 <br>
 <br>
 
+
+<h2>
+DEMO WEBSITE
+</h2>
+<br>
 <img src="/frontend/public/giaodien1.png" alt="Giao dien" width="600"/>
+<br>
+<img src="/frontend/public/giaodien2.png" alt="Giao dien" width="600"/>
+<br>
+<img src="/frontend/public/giaodien3.png" alt="Giao dien" width="600"/>
+<br>
+<img src="/frontend/public/giaodien4.png" alt="Giao dien" width="600"/>
+<br>
+<img src="/frontend/public/giaodien5.png" alt="Giao dien" width="600"/>
+
